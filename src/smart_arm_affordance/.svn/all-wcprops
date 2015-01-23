@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/738/trunk/arrg/ua_experimental/smart_arm_affordance/src/smart_arm_affordance
+END
+rxplot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/737/trunk/arrg/ua_experimental/smart_arm_affordance/src/smart_arm_affordance/rxplot.sh
+END
+affordance_listener.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/738/trunk/arrg/ua_experimental/smart_arm_affordance/src/smart_arm_affordance/affordance_listener.py
+END
+smart_arm_affordance_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/739/trunk/arrg/ua_experimental/smart_arm_affordance/src/smart_arm_affordance/smart_arm_affordance_control.py
+END
